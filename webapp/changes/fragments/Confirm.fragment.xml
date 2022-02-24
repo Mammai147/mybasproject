@@ -1,0 +1,6 @@
+<!-- Use stable and unique id's!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'> 
+
+<Button id="Confirm" type="Accept" text="Confirm"></Button>
+
+</core:FragmentDefinition>

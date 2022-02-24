@@ -1,0 +1,34 @@
+{
+	"fileName": "id_1645214957159_94_codeExt",
+	"fileType": "change",
+	"changeType": "codeExt",
+	"moduleName": "customer/Adoption/changes/coding/setconfirm",
+	"reference": "customer.Adoption",
+	"packageName": "$TMP",
+	"content": {
+		"codeRef": "coding/setconfirm.js"
+	},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ListReport.view.ListReport"
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage.new/changes/",
+	"projectId": "customer.Adoption",
+	"creation": "2022-02-18T20:09:17.163Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": ""
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
